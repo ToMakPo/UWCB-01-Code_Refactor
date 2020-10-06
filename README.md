@@ -6,6 +6,7 @@ Refactor a codebase so that it follows accessibility standards and the site is o
 
 ## Links
 You can see the **[ORIGINAL](https://tomakpo.github.io/UWCB-HW01-Code_Refactor/original_site/)** site or the **[UPDATED](https://tomakpo.github.io/UWCB-HW01-Code_Refactor/updated_site/)** site.
+Or you can also see the **[GitHub repo](https://github.com/ToMakPo/UWCB-HW01-Code_Refactor)** for this project.</p>
 
 ## Changes Made
 ### HTML
