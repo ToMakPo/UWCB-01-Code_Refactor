@@ -1,5 +1,5 @@
 # UWCB-HW01-Code_Refactor
-Homework assignment for **week 1** for _UW Coding Bootcamp_.
+Homework assignment for **week 1** of _UW Coding Bootcamp_.
 ---
 ## TASK
 Refactor a codebase so that it follows accessibility standards and the site is optimized for search engines.
