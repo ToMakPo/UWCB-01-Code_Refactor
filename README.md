@@ -6,7 +6,7 @@ Refactor a codebase so that it follows accessibility standards and the site is o
 
 ## Links
 You can see the **[ORIGINAL](https://tomakpo.github.io/UW_Coding_Bootcamp_Portfolio/projects/01-CodeRefactor/original_site/)** site or the **[UPDATED](https://tomakpo.github.io/UWCB-HW01-Code_Refactor/)** site.
-Or you can also see this project in the **[portfolio](https://tomakpo.github.io/UW_Coding_Bootcamp_Portfolio/projects/01-CodeRefactor/)**.</p>
+Or you can also see this project in the **[PORTFOLIO](https://tomakpo.github.io/UW_Coding_Bootcamp_Portfolio/projects/01-CodeRefactor/)**.</p>
 
 ## Changes Made
 ### HTML
