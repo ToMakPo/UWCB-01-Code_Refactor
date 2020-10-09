@@ -5,8 +5,8 @@ Homework assignment for **week 1** of _UW Coding Bootcamp_.
 Refactor a codebase so that it follows accessibility standards and the site is optimized for search engines.
 
 ## Links
-You can see the **[ORIGINAL](https://tomakpo.github.io/UWCB-HW01-Code_Refactor/original_site/)** site or the **[UPDATED](https://tomakpo.github.io/UWCB-HW01-Code_Refactor/updated_site/)** site.
-Or you can also see the **[GitHub repo](https://github.com/ToMakPo/UWCB-HW01-Code_Refactor)** for this project.</p>
+You can see the **[ORIGINAL](https://tomakpo.github.io/UW_Coding_Bootcamp_Portfolio/projects/01-CodeRefactor/original_site/)** site or the **[UPDATED](https://tomakpo.github.io/UWCB-HW01-Code_Refactor/)** site.
+Or you can also see this project in the **[portfolio](https://tomakpo.github.io/UW_Coding_Bootcamp_Portfolio/projects/01-CodeRefactor/)**.</p>
 
 ## Changes Made
 ### HTML
